@@ -1,0 +1,23 @@
+{
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "API using Express for Keploy API Fellowship Task 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuran-roy/keploy-task-4.git"
+  },
+  "author": "Anuran Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuran-roy/keploy-task-4/issues"
+  },
+  "homepage": "https://github.com/anuran-roy/keploy-task-4#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
